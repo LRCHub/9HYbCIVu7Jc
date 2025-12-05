@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "LOYALTY",
+  "base_artist": "ICE BAHN",
+  "createdAt": "2025-12-05T11:34:34.646016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loyalty",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Loyalty_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loyalty",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Loyalty_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loyalty - Live in Utrecht ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Loyalty_-_Live_in_Utrecht_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Loyalty (Live in Utrecht '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Loyalty_(Live_in_Utrecht_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "true loyalty",
+      "artist": "50 Cent feat. Lloyd Banks & Tony Yayo",
+      "has_synced": false,
+      "path": "select/05_true_loyalty_50_Cent_feat._Lloyd_Banks_&_Tony_Yayo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "True Loyalty (Feat. Lloyd Banks Banks & Tony Yayo)",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/06_True_Loyalty_(Feat._Lloyd_Banks_Banks_&_Tony_Yayo)_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loyalty",
+      "artist": "Blue Scholars",
+      "has_synced": true,
+      "path": "select/07_Loyalty_Blue_Scholars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pledging Loyalty",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/08_Pledging_Loyalty_Therion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Loyalty and Pride",
+      "artist": "Unleashed",
+      "has_synced": false,
+      "path": "select/09_Loyalty_and_Pride_Unleashed.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LOYALTY. FEAT. RIHANNA.",
+      "artist": "Kendrick Lamar feat. Rihanna",
+      "has_synced": true,
+      "path": "select/10_LOYALTY._FEAT._RIHANNA._Kendrick_Lamar_feat._Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Loyalty",
+      "artist": "SD",
+      "has_synced": false,
+      "path": "select/11_Loyalty_SD.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loyalty Song",
+      "artist": "Babyshambles",
+      "has_synced": true,
+      "path": "select/12_Loyalty_Song_Babyshambles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "...And Loyalty Is A Nuisance Child",
+      "artist": "Yves Tumor",
+      "has_synced": false,
+      "path": "select/13_...And_Loyalty_Is_A_Nuisance_Child_Yves_Tumor.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Loyalty",
+      "artist": "The Weather Station",
+      "has_synced": true,
+      "path": "select/14_Loyalty_The_Weather_Station.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "LOYALTY.",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/15_LOYALTY._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "LOYALTY.",
+      "artist": "Kendrick Lamar, Rihanna",
+      "has_synced": true,
+      "path": "select/16_LOYALTY._Kendrick_Lamar,_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love & Loyalty (Believe)",
+      "artist": "DBN Gogo feat. Sino Msolo, Kamo Mphela, Young Stunna & Busiswa",
+      "has_synced": true,
+      "path": "select/17_Love_&_Loyalty_(Believe)_DBN_Gogo_feat._Sino_Msolo,_Kamo_Mphela,_Young_Stunna_&_Busiswa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOYALTY",
+      "artist": "ICE BAHN",
+      "has_synced": false,
+      "path": "select/pl_01_LOYALTY_ICE_BAHN.txt"
+    }
+  ]
+}
